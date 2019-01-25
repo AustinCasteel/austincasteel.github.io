@@ -914,7 +914,7 @@ body{
     .project--lockup .slider{
         width:auto
     }
-    .woprojectrk--lockup .slider--item-left,.project--lockup .slider--item-right{
+    .project--lockup .slider--item-left,.project--lockup .slider--item-right{
         display:none
     }
 }
@@ -969,6 +969,14 @@ body{
     height:10px;
     background-color:#0f33ff
 }
+.list-1 {
+    text-indent: 50px;
+    color: #0F33FF
+}
+.list-2 {
+    text-indent: 100px;
+    color: #0F33FF
+}
 .about--banner h2{
     position:relative;
     margin-top:35px;
@@ -986,15 +994,6 @@ body{
     height:30px;
     background-color:#0f33ff;
     border-radius:50%
-}
-.about--banner h2::after{
-    content:"";
-    position:absolute;
-    top:255px;
-    left:255px;
-    width:10px;
-    height:10px;
-    background-color:#0f33ff
 }
 .about--banner a{
     padding:5px 17px 5px 0;
