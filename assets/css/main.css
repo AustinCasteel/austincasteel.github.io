@@ -971,11 +971,11 @@ body{
 }
 .list-1 {
     text-indent: 50px;
-    color: #0F33FF
+    color: rgb(175, 175, 175)
 }
 .list-2 {
     text-indent: 100px;
-    color: #0F33FF
+    color: rgb(175, 175, 175)
 }
 .about--banner h2{
     position:relative;
